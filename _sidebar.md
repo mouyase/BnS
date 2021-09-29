@@ -5,3 +5,4 @@
 * * [冷燕卡刀](KaDaoHong/LengYan)
 * **其他工具**
 * * [插件](GongJu/ChaJian)
+* * [自动勇猛](GongJu/ZiDongYongMeng)
